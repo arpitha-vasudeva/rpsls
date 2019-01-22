@@ -1,0 +1,4 @@
+# rpsls
+In this mini-project, we will build a Python function rpsls(name) that takes as input the string name, which is one of "rock", 
+"paper", "scissors", "lizard", or "Spock". The function then simulates playing a round of Rock-paper-scissors-lizard-Spock by 
+generating its own random choice from these alternatives and then determining the winner using a simple rule that we will next describe.
